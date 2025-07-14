@@ -1,4 +1,4 @@
-# MicroempresaC++
+
 # Stock Management System for Microbusinesses
 
 This C++ project is a console-based application that allows small businesses to manage their products, stock, sales, customer orders, and user roles (administrator and client). It is designed with object-oriented programming principles and a simple text interface.
