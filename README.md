@@ -1,4 +1,3 @@
-
 # Stock Management System for Microbusinesses
 
 This C++ project is a console-based application that allows small businesses to manage their products, stock, sales, customer orders, and user roles (administrator and client). It is designed with object-oriented programming principles and a simple text interface.
@@ -22,3 +21,14 @@ This C++ project is a console-based application that allows small businesses to 
 - `Pedidos`: Inherits from `Articulo`, represents a customer order.
 - `Ventas`: Records product sales and calculates revenue.
 - `Reutilizados`: Contains reusable messages for user interaction.
+
+## Authors
+
+This project was developed collaboratively by:
+
+- **Angélica Ortiz Barrantes**
+- **Greilyn Esquivel Salazar**
+- **Katheryn Méndez Quirós**
+- **Krystel Salazar Chavarría**
+  
+As part of a C++ programming course focused on object-oriented design.
